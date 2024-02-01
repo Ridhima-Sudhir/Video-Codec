@@ -10,7 +10,7 @@ My Role: I performed extensive research on the existing standards used and read 
 
 Team: <br>Ridhima Sudhir - Performed research on existing best standards to arrive at the methodology used for the project. Implemented the DWT transform and performed bit shifting and Zero Tree Wavelet encoding on the 4 bands. <br>
 Sanjana - Implemnted the DWT transform and worked on parallelization. <br>
-Gursimran - Implement DCT transform and implemented the pragma functions. <br>
-Sangeeta - Implement DCT transform  and performed bit shifting and Zero Tree Wavelet encoding on the 2 bands. <br>
+Gursimran - Implement DCT transform and implemented the pragma functions on the DWT transforms in HLS. <br>
+Sangeeta - Implement DCT transform  and performed bit shifting and Zero Tree Wavelet encoding on the 2 bands and worked on the Pragma functions. <br>
 
 Softwares used: MATLAB, Simulink and HLS
